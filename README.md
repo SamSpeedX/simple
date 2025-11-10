@@ -1,0 +1,1 @@
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=simple&type=git&repository=SamSpeedX%2Fsimple&branch=main&instance_type=free&regions=fra&instances_min=0&autoscaling_sleep_idle_delay=3600)
