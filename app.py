@@ -4,7 +4,6 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    # Render an HTML template
     return render_template('index.html')
 
 @app.route('/greet', methods=['POST'])
